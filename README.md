@@ -30,7 +30,8 @@
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
-| BE — Information Technology | Vasavi College of Engineering, Hyderabad | CGPA: 9.24/10 | 2023 – 2027 |
+| 🎓 BE — Information Technology | Vasavi College of Engineering, Hyderabad | CGPA: 9.24 / 10 | 2023 – 2027 |
+| 📘 Intermediate (MPC) | SR Junior College, Warangal | 98.8% | 2021 – 2023 |
 
 ---
 
@@ -38,7 +39,15 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjanadharanikota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanadharanikota&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
