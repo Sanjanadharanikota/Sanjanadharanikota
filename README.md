@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=900&lines=BE+Information+Technology+%40+Vasavi+College+of+Engineering;CGPA+9.24+%7C+Top+1%25+NPTEL+Java+%7C+Elite+Gold;Full+Stack+Dev+%7C+AI%2FML+%7C+Distributed+Systems;Built+FRA+Atlas+%7C+NanoURL+%7C+DeTinyLLM;GSSoC+%26+SSoC+Open+Source+Contributor;SIH+2025+National+Finalist+%7C+AWS+AI+Scholar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=900&lines=BE+IT+Student+%40+Vasavi+College+of+Engineering;Top+1%25+NPTEL+Java+%7C+Elite+Certified+%7C+IIT+Kharagpur;GSSoC+%26+SSoC+Open+Source+Contributor;Built+DeTinyLLM+%7C+FRA+Atlas+%7C+NanoURL;VJ+Hackathon+Top+20%2F5118+%7C+Best+Team+%7C+AWS+AI+Scholar;SIH+2025+National+Pre-Finalist+%7C+MSME+5.0+Top+12%2F234" />
 </div>
 
 <br/>
@@ -38,15 +38,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjanadharanikota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanadharanikota&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -111,8 +103,8 @@
 
 ## 🏆 Achievements & Awards
 
-- 🥇 **NPTEL Programming in Java** — Top **1%** nationally | **Elite Gold Certificate** *(2026)*
-- 🏆 **VJ Hackathon** — Top 20 / 5,118 teams nationally | **Best Girls Team Award**
+- 🥇 **NPTEL Programming in Java** — Top **1%** nationally | **Elite Certificate** *(2026)*
+- 🏆 **VJ Hackathon** — Top 20 / 5,118 teams nationally | **Best Team Award**
 - 🏅 **Smart India Hackathon 2025** — National Pre-Finale Qualifier
 - ☁️ **AWS AI & ML Scholarship** — Udacity *"Future AWS AI Engineer"* Nanodegree
 - 🎯 **MSME 5.0 Ideathon** — Shortlisted in Top 12 / 234 proposals (Govt. of India)
@@ -180,7 +172,7 @@ Currently an active contributor in ongoing open source programs — collaboratin
 | Certificate | Issuer |
 |-------------|--------|
 | Future AWS AI Engineer Nanodegree | Udacity × AWS |
-| Programming in Java — **Elite Gold (Top 1%)** | NPTEL |
+| Programming in Java — **Elite (Top 1%)** | NPTEL |
 | Full Stack Developer Bootcamp | GeeksforGeeks |
 | Postman API Fundamentals — Student Expert | Postman |
 | Python Skills Certification | HackerRank |
@@ -190,7 +182,7 @@ Currently an active contributor in ongoing open source programs — collaboratin
 
 ## 📬 Let's Connect
 
-I'm a **final-year BE student actively looking for full-time opportunities** as an **SDE / Full Stack / ML Engineer**.
+I'm a **final-year BE IT student** actively contributing to open source (GSSoC & SSoC) and building production-grade systems — open to **SDE / Full Stack / ML Engineer** internships and roles.
 
 📧 **dharanikotasanjana@gmail.com** | 📍 Hyderabad, India
 
