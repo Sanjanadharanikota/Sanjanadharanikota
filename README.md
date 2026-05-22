@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0077B5&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+IT+%40+Vasavi+College+of+Engineering;Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;NPTEL+Java+Top+1%25+%7C+Elite+Gold+Awardee;Smart+India+Hackathon+2025+Finalist;Open+Source+Contributor+%7C+SSoC+%26+GSSoC;Building+impactful+tech+%E2%80%94+one+project+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=900&lines=BE+Information+Technology+%40+Vasavi+College+of+Engineering;CGPA+9.24+%7C+Top+1%25+NPTEL+Java+%7C+Elite+Gold;Full+Stack+Dev+%7C+AI%2FML+%7C+Distributed+Systems;Built+FRA+Atlas+%7C+NanoURL+%7C+DeTinyLLM;GSSoC+%26+SSoC+Open+Source+Contributor;SIH+2025+National+Finalist+%7C+AWS+AI+Scholar" />
 </div>
 
 <br/>
@@ -30,49 +30,24 @@
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
-| B.Tech — Information Technology | Vasavi College of Engineering, Hyderabad | CGPA: 9.24/10 | 2023 – 2027 |
+| BE — Information Technology | Vasavi College of Engineering, Hyderabad | CGPA: 9.24/10 | 2023 – 2027 |
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjanadharanikota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanadharanikota&theme=tokyonight&hide_border=true" />
+</p>
 
-### Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### AI / ML & Cloud
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+<p align="center">
+  <img src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -134,6 +109,58 @@
 
 ---
 
+## 🏆 Achievements & Awards
+
+- 🥇 **NPTEL Programming in Java** — Top **1%** nationally | **Elite Gold Certificate** *(2026)*
+- 🏆 **VJ Hackathon** — Top 20 / 5,118 teams nationally | **Best Girls Team Award**
+- 🏅 **Smart India Hackathon 2025** — National Pre-Finale Qualifier
+- ☁️ **AWS AI & ML Scholarship** — Udacity *"Future AWS AI Engineer"* Nanodegree
+- 🎯 **MSME 5.0 Ideathon** — Shortlisted in Top 12 / 234 proposals (Govt. of India)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### AI / ML & Cloud
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+
+---
+
 ## 🌍 Open Source Contributions
 
 <p align="center">
@@ -145,16 +172,6 @@ Currently an active contributor in ongoing open source programs — collaboratin
 
 - 🟠 **GirlScript Summer of Code (GSSoC)** — Contributing to real-world open source projects, collaborating with maintainers, and shipping production-ready code
 - 🟣 **Social Summer of Code (SSoC)** — Active contributor working on community-driven open source repositories
-
----
-
-## 🏆 Achievements & Awards
-
-- 🥇 **NPTEL Programming in Java** — Top **1%** nationally | **Elite Gold Certificate** *(2026)*
-- 🏆 **VJ Hackathon** — Top 20 / 5,118 teams nationally | **Best Girls Team Award**
-- 🏅 **Smart India Hackathon 2025** — National Pre-Finale Qualifier
-- ☁️ **AWS AI & ML Scholarship** — Udacity *"Future AWS AI Engineer"* Nanodegree
-- 🎯 **MSME 5.0 Ideathon** — Shortlisted in Top 12 / 234 proposals (Govt. of India)
 
 ---
 
@@ -171,36 +188,9 @@ Currently an active contributor in ongoing open source programs — collaboratin
 
 ---
 
-## 🤝 Positions of Responsibility
+## 📬 Let's Connect
 
-- 👩‍💻 **Member, DSAC-IT** — Department of Student Activity Council, Vasavi College of Engineering
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjanadharanikota&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjanadharanikota&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanadharanikota&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm a **final-year IT student actively looking for full-time opportunities** as an **SDE / Full Stack / ML Engineer**.
+I'm a **final-year BE student actively looking for full-time opportunities** as an **SDE / Full Stack / ML Engineer**.
 
 📧 **dharanikotasanjana@gmail.com** | 📍 Hyderabad, India
 
