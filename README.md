@@ -35,23 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjanadharanikota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌿 🏞️ FRA Atlas: A WebGIS-Based Intelligent Frontier for Forest Rights Decision Support
@@ -201,6 +184,18 @@ I'm a **final-year BE IT student** actively contributing to open source (GSSoC &
 
 <p align="center">
   <i>"From forest rights to financial forecasting — I build systems that matter."</i>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Sanjanadharanikota&color=0077B5)
