@@ -101,6 +101,8 @@
 ### 💰 Wealth Navigator — Secure AI Financial Co-Pilot
 > A full-stack AI finance platform integrating **10+ financial data streams** across banking and investments.
 
+[![Wealth Navigator](https://img.shields.io/badge/GitHub-Wealth--Navigator-181717?style=for-the-badge&logo=github)](https://github.com/Sanjanadharanikota/Wealth-Navigator-)
+
 - Real-time transaction analysis, anomaly detection & predictive financial forecasting
 - End-to-end security with **OAuth2, JWT & AES-256** encryption
 - Interactive data visualisations powered by **D3.js / Chart.js**
