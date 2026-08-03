@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-<h3> 🤖 AI/ML Engineer in the Making | 💻 Full-Stack Developer | 🇮🇳 India</h3>
+<h3> 🚀 Machine Learning Engineer | 🤖 AI Engineer | 💻 Full-Stack Developer | 🇮🇳 India</h3>
 </div>
 
 <h5 align="center">
@@ -24,8 +24,9 @@
 
 <br/>
 
-<img align="right" height="270px" width="420px" alt="GIF" 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 👩‍💻 About Me
 
@@ -36,10 +37,18 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 - 🌍 Active open-source contributor — **GSSoC & SSoC**
 - 🎓 B.Tech IT @ **Vasavi College of Engineering** (2023–2027)
 
+</td>
+<td width="40%" align="center">
+<img height="270px" width="100%" alt="GIF" 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
+</td>
+</tr>
+</table>
+
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to-SDE%20%7C%20Full%20Stack%20%7C%20ML%20Engineer%20Roles-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🟢%20Open%20to-Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20Software%20Developer-success?style=for-the-badge"/>
 </p>
 
 ---
