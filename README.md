@@ -14,6 +14,19 @@
   </a>
 </p>
 
+<div align="center">
+<h3> 🤖 AI/ML Engineer in the Making | 💻 Full-Stack Developer | 🇮🇳 India</h3>
+</div>
+
+<h5 align="center">
+   <i>⚡ "From forest rights to financial forecasting — I build systems that matter." ⚡</i>
+</h5>
+
+<br/>
+
+<img align="right" height="270px" width="420px" alt="GIF" 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
+
 ### 👩‍💻 About Me
 
 - 🔥 Final-year IT student building production-grade AI & full-stack systems
@@ -176,23 +189,6 @@ Currently an active contributor in ongoing open source programs — collaboratin
 | Postman API Fundamentals — Student Expert | Postman |
 | Python Skills Certification | HackerRank |
 | Problem Solving Through Programming in C | NPTEL, IIT Kharagpur |
-
----
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">
-🔥 Issues, Contributions & Feature Requests are always welcome!  
-💙 If you like my projects, consider giving them a ⭐
-</p>
-
-<p align="center">Made with ❤️ in India</p>
-
----
-
-<p align="center">
-  <i>"From forest rights to financial forecasting — I build systems that matter."</i>
-</p>
 
 ---
 
