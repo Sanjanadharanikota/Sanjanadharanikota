@@ -24,9 +24,9 @@
 
 <br/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" style="border:none;">
 
 ### 👩‍💻 About Me
 
@@ -38,8 +38,8 @@
 - 🎓 B.Tech IT @ **Vasavi College of Engineering** (2023–2027)
 
 </td>
-<td width="40%" align="center">
-<img height="270px" width="100%" alt="GIF" 
+<td width="40%" valign="top" style="border:none; padding:0;">
+<img height="100%" width="100%" alt="GIF" style="object-fit:cover;"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
 </td>
 </tr>
@@ -52,7 +52,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 </p>
 
 ---
-
 ## 🎓 Education
 
 | Degree | Institution | Score | Year |
