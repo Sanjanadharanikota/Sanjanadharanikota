@@ -112,6 +112,20 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+![](https://komarev.com/ghpvc/?username=Sanjanadharanikota&color=0077B5)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌿 🏞️ FRA Atlas: A WebGIS-Based Intelligent Frontier for Forest Rights Decision Support
@@ -209,19 +223,6 @@ Currently an active contributor in ongoing open source programs — collaboratin
 | Python Skills Certification | HackerRank |
 | Problem Solving Through Programming in C | NPTEL, IIT Kharagpur |
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://github.com/Sanjanadharanikota/Sanjanadharanikota/raw/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Sanjanadharanikota&color=0077B5)
 
 ---
 
