@@ -26,7 +26,7 @@
 
 <br/>
 
-<img align="right" height="280px" width="380px" alt="GIF" 
+<img align="right" height="380px" width="380px" alt="GIF" 
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
 
 ### 👩‍💻 About Me
@@ -47,6 +47,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 </p>
 
 ---
+
 ## 🎓 Education
 
 | Degree | Institution | Score | Year |
@@ -97,6 +98,19 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 
 ---
+# 📊 GitHub Stats:
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjanadharanikota&layout=compact&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sanjanadharanikota&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -118,6 +132,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 
 ### 🤖 DeTinyLLM — Dual-Stage Framework for AI-Generated Text Detection
 > A dual-stage NLP framework that detects AI-generated text by first paraphrasing it with a fine-tuned T5 model and then classifying the original–paraphrase pair using a divergence-aware RoBERTa classifier.
+
+[![DeTinyLLM](https://img.shields.io/badge/GitHub-DeTinyLLM-181717?style=for-the-badge&logo=github)](https://github.com/Sanjanadharanikota/DeTinyLLM)
 
 - **Stage 1 — Controlled Paraphrase Transformation:** A fine-tuned **T5** model generates a semantically faithful paraphrase of the input; human-written text produces high divergence while AI-generated text stays lexically close to the original
 - **Stage 2 — Divergence-Aware Pairwise Classification:** Fine-tuned **RoBERTa** takes the original + paraphrase as a pair and classifies based on the divergence signal — achieving strong accuracy on the AI_Human dataset
